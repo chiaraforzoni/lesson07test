@@ -21,7 +21,7 @@ var colorList = ['#e86584',
                  '#fea24d'
                  ];
         //define a list of color to assign to each touching point
-    
+    //change example
     
     for(var i = 0; i < touches.lenght; i++) {
         var touch = touches[i];
